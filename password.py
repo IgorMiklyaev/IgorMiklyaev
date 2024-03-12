@@ -1,0 +1,1 @@
+password = print("er your password: ")
